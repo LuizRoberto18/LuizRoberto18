@@ -2,8 +2,11 @@ Oiii!, Eu sou o Luiz Roberto.
 
 - 🎓 Graduações: Técnico em informática para internet e técnico em administração.
 - 📚 Curssando: Desenvolvedor mobile FLutter, Desenvolvedor web e Design gráfico.
-- 🌱 Estudando:  <strong>mobile</strong> com as tecnologias Framework Flutter, Dart, Orientação a Objetos, APIs Rest, testes com Postman e Insomnia, MobX, Firebase, HTTP, Responsividade, Recursos Nativos. <strong>Devesolvimento Web</strong> com as tecnologias: HTML5, CSS3, BootStrap4, Responsividade, Java Script, ES6(Java Script Moderno), PHP7, Orientação a Objetos, MySql, PHP com PDD, Ajax, JQuery, MVC, APIs, IONIC, WordPress, Slim Framework e SASS. <strong>Design Gráfico</strong> com as tecnologias: Photoshop, Corel Draw, Illustrator, InDesign e Adobe Portfolio.
-- 😄 Pronouns: Ele/Dele
+- 🌱 Estudando:  
+  - <strong>mobile</strong> com as tecnologias Framework Flutter, Dart, Orientação a Objetos, APIs Rest, testes com Postman e Insomnia, MobX, Firebase, HTTP, Responsividade, Recursos Nativos. 
+  - <strong>Devesolvimento Web</strong> com as tecnologias: HTML5, CSS3, BootStrap4, Responsividade, Java Script, ES6(Java Script Moderno), PHP7, Orientação a Objetos, MySql, PHP com PDD, Ajax, JQuery, MVC, APIs, IONIC, WordPress, Slim Framework e SASS. 
+  - <strong>Design Gráfico</strong> com as tecnologias: Photoshop, Corel Draw, Illustrator, InDesign e Adobe Portfolio.
+- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/LuizRobert18"><a/>
